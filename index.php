@@ -1,5 +1,5 @@
 <?php
-/* include the class file (global - within application) */
+
 include_once 'classes/class.user.php';
 include_once 'classes/class.product.php';
 include_once 'classes/class.receive.php';
